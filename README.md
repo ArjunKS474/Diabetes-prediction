@@ -1,5 +1,4 @@
 # Diabetes Prediction
-To develop a logistic regression model to accurately predict the likelihood of diabetes using a dataset of relevant patient features
 
 Steps in Diabetes Prediction Using Logistic Regression:
 1. Data Collection
