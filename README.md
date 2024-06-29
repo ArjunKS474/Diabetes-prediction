@@ -21,13 +21,16 @@ The dataset used for this project includes the following columns:
 - Load the dataset.
 - Handle missing values by imputing or removing them.
 - Normalize or standardize the data if necessary.
+  
 **2. Feature Selection**
 - Analyze the features and their correlation with the target variable.
 - Select features that contribute the most to the prediction.
+  
 **3. Model Training**
 - Split the data into training and testing sets.
 - Train the logistic regression model using the training set.
 - Tune hyperparameters to improve model performance.
+  
 **4. Model Evaluation**
 - Use the testing set to evaluate the model.
 - Calculate accuracy, precision, recall, and F1-score.
