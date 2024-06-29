@@ -15,6 +15,13 @@ The dataset used for this project includes the following columns:
 - age: Age (years)
 - diabetes: Class variable (0 or 1)
 
+# Library Packages
+
+- pandas
+- scikit-learn
+- numpy
+- matplotlib
+
 # Steps:
 
 **1. Data Preprocessing**
